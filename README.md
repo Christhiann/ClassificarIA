@@ -21,6 +21,7 @@ Automatizar o processo de análise de currículos por meio de um modelo de machi
 - Suporte a arquivos `.pdf` e `.docx`.
 
 ## 📁 Como usar
+# Coloque o curriculo entro da pasta curriculos
 ### 1. Treinamento do modelo
 ```bash
 python treinar.py
